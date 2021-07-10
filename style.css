@@ -1,0 +1,52 @@
+body{
+    background-color: palegreen;
+    font-family: 'Viaoda Libre', cursive;
+}
+.header_div{
+    background: white;
+    color: darkolivegreen;
+}
+.header_div img{
+    width: 60px;
+    height: 60px;
+}
+.main_div{
+    background: springgreen;
+    padding: 10px;
+    margin-top: 15x;
+    border: 2px dashed ghostwhite;
+}
+#camera,#result{
+    border: 3px solid gainsboro;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 50px darkgreen;
+}
+.main_div button{
+    width: 310px;
+    font-size: 15px;
+    box-shadow: 5px 5px 50px darkgreen;
+    border: 1px solid greenyellow;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: darkkhaki;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 50px darkgreen; 
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: darkslategray;
+    color: ivory;
+    bottom: 0;
+     width: 100%;
+     text-align: center;
+     line-height: 3;
+     
+}
